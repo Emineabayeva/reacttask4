@@ -1,0 +1,24 @@
+
+.badge{
+    background-image:url("https://zos.alipayobjects.com/rmsportal/gGlUMYGEIvjDOOw.jpg") ;
+    background-color: red;
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-attachment: fixed;
+    background-position: center;
+}
+.text{
+
+    font-size: 20px;
+    color: white;
+}
+.btn{
+     background-color: transparent;
+     padding: 10px;
+     color: white;
+     border: 1px solid white;
+}
